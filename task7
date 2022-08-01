@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <script>
+   let user=prompt("user");
+   let ususermale=prompt("email");
+   let qwerty=prompt("password");
+   console.log(user,ususermale,qwerty);
+   alert("Dear"+user+", your email is "+ususermale+", your password is "+qwerty)
+
+   </script>
+  
+
+</body>
+</html>
